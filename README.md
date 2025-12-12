@@ -7,7 +7,7 @@ Each problem is solved in a separate Java file inside the `src/` folder.
 
 ---
 
-## 📌 Problem List & Files
+## Problem List & Files
 
 ### **Program_1.java**
 A simple calculator that performs:
